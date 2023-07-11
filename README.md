@@ -8,8 +8,7 @@ Questa mod comprende una nuova testurizzazione di un altro bellissimo marchio It
 La mod è di Univers Simu Modding e la si trova direttamente sul ModHub ufficiale.
 
 
-<img src="![image 1](https://github.com/Papafra16/Sicma-mod-for-FS22/assets/81924705/994bc825-049c-4b6f-a725-70f06e8f7ed8)
-" />
+<img src="https://github.com/Papafra16/Sicma-mod-for-FS22/assets/81924705/994bc825-049c-4b6f-a725-70f06e8f7ed8" />
 <img src="![image 2](https://github.com/Papafra16/Sicma-mod-for-FS22/assets/81924705/ae5cd9be-63df-4333-9d04-92ad99c1ea9d)
 " />
 <img src="![image 3](https://github.com/Papafra16/Sicma-mod-for-FS22/assets/81924705/185d555e-a39c-4a08-9631-976e09882a5a)
