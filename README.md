@@ -1,9 +1,11 @@
 # Sicma-mod-for-FS22
 EN--
+
 This mod includes a new texturing of another beautiful Italian brand: Sicma (an Emilian company that used to produce earth moving tools but also grass cutting tools, unfortunately it went bankrupt a few years ago so you can't find much information).
 The mod is by Univers Simu Modding and can be found directly on the official ModHub.
 
 IT--
+
 Questa mod comprende una nuova testurizzazione di un altro bellissimo marchio Italiano: Sicma (una azienda Emiliana che produceva attrezzi per il movimento terra ma anche per il taglio dell'erba, purtroppo ha fallito qualche anno fa quindi non si trovano tante informazioni).
 La mod è di Univers Simu Modding e la si trova direttamente sul ModHub ufficiale.
 
